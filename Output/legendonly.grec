@@ -1,0 +1,27 @@
+StataFileTM:00001:01100:GREC:                          :
+00007:00007:00001:
+*! classname: twowaygraph_g
+*! family: twoway
+*! date: 30 Nov 2023
+*! time: 17:05:33
+*! graph_scheme: cleanplots
+*! naturallywhite: 1
+*! end
+
+// File created by Graph Editor Recorder.
+// Edit only if you know what you are doing.
+
+.yaxis1.draw_view.setstyle, style(no)
+// yaxis1 edits
+
+.plotregion1.draw_view.setstyle, style(no)
+// plotregion1 edits
+
+.xaxis1.draw_view.setstyle, style(no)
+// xaxis1 edits
+
+.title.draw_view.setstyle, style(no)
+// title edits
+
+
+// <end>
